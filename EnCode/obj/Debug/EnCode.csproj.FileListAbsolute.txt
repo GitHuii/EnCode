@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\EnCode\EnCode\bin\Debug\EnCode.exe.config
+C:\Users\ADMIN\source\repos\EnCode\EnCode\bin\Debug\EnCode.exe
+C:\Users\ADMIN\source\repos\EnCode\EnCode\bin\Debug\EnCode.pdb
+C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.Form1.resources
+C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.exe
+C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.pdb
