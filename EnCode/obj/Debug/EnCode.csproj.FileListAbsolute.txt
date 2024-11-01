@@ -8,3 +8,8 @@ C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.csproj.GenerateResour
 C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.exe
 C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.pdb
+C:\Users\ADMIN\source\repos\EnCode\EnCode\bin\Debug\MathNet.Numerics.dll
+C:\Users\ADMIN\source\repos\EnCode\EnCode\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\source\repos\EnCode\EnCode\bin\Debug\MathNet.Numerics.xml
+C:\Users\ADMIN\source\repos\EnCode\EnCode\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\source\repos\EnCode\EnCode\obj\Debug\EnCode.csproj.CopyComplete
