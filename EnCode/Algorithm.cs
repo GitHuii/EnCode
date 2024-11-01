@@ -205,5 +205,12 @@ namespace EnCode
             }
             return output;
         }
+
+        public static string HILL(string input , int[,] key , bool flag)
+        {
+            string output = "";
+
+            return output;
+        }
     }
 }
