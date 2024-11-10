@@ -402,5 +402,28 @@ namespace EnCode
             }
             return output;
         }
+
+        public static string OTP(string input , string key , bool flag)
+        {
+            string output = "";
+            if(key.Length < input.Length)
+            {
+                MessageBox.Show("Nhập khóa có độ dài bằng hoặc lớn hơn độ dài bản rõ");
+                return output;
+            }
+            if(flag)
+            {
+                for(int i = 0; i < input.Length; i++)
+                {
+                    output += (char)((input[i] - 'A' + key[i] - 'A')%26 + 'A');
+                }
+                return output;
+            }
+            for (int i = 0; i < input.Length; i++)
+            {
+                output += (char)((input[i] - 'A' - key[i] + 'A' + 26) % 26 + 'A');
+            }
+            return output;
+        }
     }
 }

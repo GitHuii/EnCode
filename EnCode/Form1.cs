@@ -35,6 +35,7 @@ namespace EnCode
             radioButton12.Checked = true;
             radioButton14.Checked = true;
             radioButton16.Checked = true;
+            radioButton18.Checked = true;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -226,6 +227,23 @@ namespace EnCode
             //MEETMEAFTERTHETOGAPARTY
             //MEMATRHTGPRYETEFETEOAAT
             richTextBox16.Text = RAILFENCE(richTextBox17.Text, radioButton16.Checked);
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            richTextBox18.Text = OTP(richTextBox19.Text, textBox8.Text , radioButton18.Checked);
+        }
+
+        private void radioButton18_CheckedChanged(object sender, EventArgs e)
+        {
+            label39.Text = Label_content[0];
+            label38.Text = Label_content[1];
+        }
+
+        private void radioButton17_CheckedChanged(object sender, EventArgs e)
+        {
+            label39.Text = Label_content[1];
+            label38.Text = Label_content[0];
         }
     }
 }

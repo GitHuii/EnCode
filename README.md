@@ -32,3 +32,6 @@ BẢN RÕ / BẢN MÃ chỉ NHẬP các kí tự A-Z IN HOA
 
 - Rail Fence :
 	Không cần nhập khóa
+
+- OTP :
+	Khóa chuỗi có độ dài bằng hoặc lớn hơn độ dài bản rõ
